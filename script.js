@@ -112,7 +112,7 @@ console.log(companyStartEnd);
 // output: company name : start - end for all companies
 
 const testMap = companies.map(function(company) {
-    
+    <<insert text here>>
 })
 console.log(testMap);
 
@@ -205,12 +205,6 @@ console.log(totalYears);
 const totalYears = companies.reduce((total, company) => total + (company.end - company.start), 0);
 console.log(totalYears);
 //118
-
-
-
-
-
-
 
 
 
